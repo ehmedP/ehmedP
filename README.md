@@ -1,10 +1,10 @@
 <img width=100% src=https://github.com/ehmedP/ehmedP/assets/129995403/e65e1b28-c723-475c-b58c-057e95fdabb2 />
-hi, I'm Ehmed Ehmedli, a passionate self-taught full-stack web developer and a freelance software engineer from Azerbaijan. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=If+I+cannot+do+great+things%2C;+I+can+do+small+things+in+a+great+way.)](https://git.io/typing-svg)
 
+hi, I'm Ehmed Ehmedli, a passionate self-taught full-stack web developer and a freelance software engineer from Azerbaijan. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
