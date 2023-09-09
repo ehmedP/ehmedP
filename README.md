@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center" >
  <a href="https://www.codewars.com/users/ehmedP">
-   <img src="https://github.r2v.ch/codewars?user=dinifarb&name=true&top_languages=true&theme=gradient" />
+   <img src="https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201" />
  </a>
 </p>
 
