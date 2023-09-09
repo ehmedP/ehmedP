@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/ehmedP/ehmedP/assets/129995403/5e1a820a-ec7c-45b4-933d-8e7acf621fa6)
 hi, I'm Ehmed Ehmedli, a passionate self-taught full-stack web developer and a freelance software engineer from Azerbaijan. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
