@@ -2,6 +2,8 @@ hi, I'm Ehmed Ehmedli, a passionate self-taught full-stack web developer and a f
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=If+I+cannot+do+great+things%2C;+I+can+do+small+things+in+a+great+way.)](https://git.io/typing-svg)
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
