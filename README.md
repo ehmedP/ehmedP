@@ -16,11 +16,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <!--START_SECTION:waka-->
   ```txt
-  TypeScript     5 hrs 11 mins     ████████████████████░░░░░   81.15 %
-  JavaScript     1 hr 7 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-  JSON           5 mins            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-  SpringBoot     5 hrs 11 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-  Java           5 hrs 11 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+  SpringBoot   5 hrs 30 mins   ████████████████████████░   60.71%
+  TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
+  JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+  Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+  JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
   ```
   
   <!--END_SECTION:waka-->
