@@ -16,7 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <!--START_SECTION:waka-->
   ```txt
-  SpringBoot   5 hrs 30 mins   ████████████████████████░   60.71%
+  SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
   TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
   JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
   Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
