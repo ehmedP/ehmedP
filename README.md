@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br /><hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaykhattak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rafaykhattak" /></p>
 
 <p align=left>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
 
