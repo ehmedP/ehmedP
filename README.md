@@ -21,7 +21,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </a>
 </p>
 
-<br /><br />
+<br /><hr />
 <div class="display: block">
   <h3 align="left">📊 This week i spent my time on: </h3>
 
@@ -36,6 +36,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
   <!--END_SECTION:waka-->
 </div>
+
+<br /><hr />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedp&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaykhattak&show_icons=true&locale=en&layout=compact" alt="rafaykhattak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaykhattak&show_icons=true&locale=en" alt="rafaykhattak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaykhattak&" alt="rafaykhattak" /></p>
+
+<br /><br /><hr />
 
 <p align="center" >
  <a href="https://www.codewars.com/users/ehmedP">
