@@ -41,11 +41,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedp&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaykhattak&show_icons=true&locale=en&layout=compact" alt="rafaykhattak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact" alt="ehmedp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaykhattak&show_icons=true&locale=en" alt="rafaykhattak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en" alt="ehmedp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaykhattak&" alt="rafaykhattak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&" alt="ehmedp" /></p>
 
 <br /><br /><hr />
 
