@@ -53,3 +53,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&theme=tokyonight" alt="ehmedp" /></p>
 
+<br>
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+</div>
