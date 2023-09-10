@@ -39,17 +39,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br /><hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&theme=tokyonight" alt="ehmedp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&theme=tokyonight" alt="ehmedp" /></p>
-
-<br /><br /><hr />
-
 <p align="center" >
  <a href="https://www.codewars.com/users/ehmedP">
    <img src="https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201" />
  </a>
 </p>
+
+<br /><br /><hr />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&theme=tokyonight" alt="ehmedp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&theme=tokyonight" alt="ehmedp" /></p>
 
