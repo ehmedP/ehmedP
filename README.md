@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 Any freelance work? do reach, [email](mailto:ehmedliehmed0105@gmail.com) :)
 - 💬 Ask me about web, i am happy to help;
-- ✍ You can find my resume [here](https://github.com/ehmedP/ehmedP/files/12905359/myCv.pdf)
+- ✍ You can find my resume [here](https://github.com/ehmedP/ehmedP/files/12905381/myCV.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
