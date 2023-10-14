@@ -6,6 +6,8 @@ hi, I'm Ehmed Ehmedli, a passionate self-taught full-stack web developer and a f
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+I am excited to use my skills and experience to make a positive impact on the world. I believe that technology can be used to solve real-world problems and improve people's lives. I am looking for opportunities to work on projects that align with my values and make a difference.
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:ehmedliehmed0105@gmail.com) :)
