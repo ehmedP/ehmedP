@@ -64,7 +64,3 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 </div>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pats-Chen&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
