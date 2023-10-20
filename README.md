@@ -37,6 +37,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
       JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
       Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
       JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+      
 <pre>
   </div>
 
