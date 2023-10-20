@@ -28,10 +28,10 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <br /><hr />
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <div style="flex: 1;" align="left">
+  <div style="flex: 1;">
     <h3>📊 This week I spent my time on: </h3>
 
-  <table>
+  <table align="left">
       <tr>
         <td>SpringBoot</td>
         <td>5 hrs 30 mins</td>
