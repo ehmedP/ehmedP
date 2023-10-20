@@ -65,6 +65,25 @@ I am excited to use my skills and experience to make a positive impact on the wo
         <td>██████░░░░░░░░░░░░░░░░</td>
         <td>24.14%</td>
       </tr>
+      <tr>
+        <td>JavaScript</td>
+        <td>1 hr 7 mins</td>
+        <td>███░░░░░░░░░░░░░░░░░░</td>
+        <td>11.78%</td>
+      </tr>
+      <tr>
+        <td>Java</td>
+        <td>40 mins</td>
+        <td>█░░░░░░░░░░░░░░░░░░░</td>
+        <td>4.42%</td>
+      </tr>
+      <tr>
+        <td>JSON</td>
+        <td>15 mins</td>
+        <td>░░░░░░░░░░░░░░░░░░░░</td>
+        <td>1.65%</td>
+      </tr>
+      <!-- Diğer satırlar burada gelebilir -->
     </table>
   </div>
 
@@ -72,9 +91,6 @@ I am excited to use my skills and experience to make a positive impact on the wo
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
   </div>
 </div>
-
-<hr />
-
 
 <hr />
 
