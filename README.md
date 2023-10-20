@@ -84,7 +84,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <br /><br /><hr />
 
-<div style="display: flex;">
+<div style="display: flex;" align="center">
   <table>
     <tr>
       <td>
