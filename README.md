@@ -31,7 +31,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
   <div style="flex: 1;">
     <h3>📊 This week I spent my time on: </h3>
 
-  <table align="left">
+  <table>
       <tr>
         <td>SpringBoot</td>
         <td>5 hrs 30 mins</td>
