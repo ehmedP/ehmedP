@@ -32,6 +32,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
     <h3 align="left">📊 This week i spent my time on: </h3>
 
   ```
+
     SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
     TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
     JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
@@ -45,7 +46,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
 </div>
 
-<br /><hr />
+<hr />
 
 <p align="center" >
  <a href="https://www.codewars.com/users/ehmedP">
