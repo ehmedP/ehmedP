@@ -41,6 +41,8 @@ I am excited to use my skills and experience to make a positive impact on the wo
   <!--END_SECTION:waka-->
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
+
 <br /><hr />
 
 <p align="center" >
