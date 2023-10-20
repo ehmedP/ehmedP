@@ -30,40 +30,47 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <div>
   <div>
     <h3>📊 This week I spent my time on: </h3>
-
-  <table>
+    <table>
       <tr>
-        <td>SpringBoot</td>
-        <td>5 hrs 30 mins</td>
-        <td>█████████████████░░░░░░</td>
-        <td>60.71%</td>
-      </tr>
-      <tr>
-        <td>TypeScript</td>
-        <td>2 hrs 11 mins</td>
-        <td>██████░░░░░░░░░░░░░░░░</td>
-        <td>24.14%</td>
-      </tr>
-      <tr>
-        <td>JavaScript</td>
-        <td>1 hr 7 mins</td>
-        <td>███░░░░░░░░░░░░░░░░░░</td>
-        <td>11.78%</td>
-      </tr>
-      <tr>
-        <td>Java</td>
-        <td>40 mins</td>
-        <td>█░░░░░░░░░░░░░░░░░░░</td>
-        <td>4.42%</td>
-      </tr>
-      <tr>
-        <td>JSON</td>
-        <td>15 mins</td>
-        <td>░░░░░░░░░░░░░░░░░░░░</td>
-        <td>1.65%</td>
+        <td>
+          <table>
+            <tr>
+              <td>SpringBoot</td>
+              <td>5 hrs 30 mins</td>
+              <td>█████████████████░░░░░░</td>
+              <td>60.71%</td>
+            </tr>
+            <tr>
+              <td>TypeScript</td>
+              <td>2 hrs 11 mins</td>
+              <td>██████░░░░░░░░░░░░░░░░</td>
+              <td>24.14%</td>
+            </tr>
+            <tr>
+              <td>JavaScript</td>
+              <td>1 hr 7 mins</td>
+              <td>███░░░░░░░░░░░░░░░░░░</td>
+              <td>11.78%</td>
+            </tr>
+            <tr>
+              <td>Java</td>
+              <td>40 mins</td>
+              <td>█░░░░░░░░░░░░░░░░░░░</td>
+              <td>4.42%</td>
+            </tr>
+            <tr>
+              <td>JSON</td>
+              <td>15 mins</td>
+              <td>░░░░░░░░░░░░░░░░░░░░</td>
+              <td>1.65%</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
+        </td>
       </tr>
     </table>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
   </div>
 </div>
 
