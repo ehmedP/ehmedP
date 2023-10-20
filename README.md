@@ -82,7 +82,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
  </a>
 </p>
 
-<br /><br /><hr />
+<br /><hr />
 
 <div>
   <table align="center">
