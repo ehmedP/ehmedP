@@ -65,8 +65,8 @@ I am excited to use my skills and experience to make a positive impact on the wo
     </table>
   </div>
 
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
+  <div style="display: inline-block">
+    <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
   </div>
 </div>
 
