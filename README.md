@@ -84,8 +84,8 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <br /><br /><hr />
 
-<div style="display: flex;" align="center">
-  <table>
+<div>
+  <table align="center">
     <tr>
       <td>
         <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&theme=tokyonight" alt="ehmedp" /></p>
