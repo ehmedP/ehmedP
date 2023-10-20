@@ -27,11 +27,11 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <br /><hr />
 
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
-  <div style="display: inline-block">
+<div>
+  <div>
     <h3>📊 This week I spent my time on: </h3>
 
-  <table style="display: inline-block">
+  <table>
       <tr>
         <td>SpringBoot</td>
         <td>5 hrs 30 mins</td>
@@ -65,8 +65,8 @@ I am excited to use my skills and experience to make a positive impact on the wo
     </table>
   </div>
 
-  <div style="display: inline-block">
-    <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
   </div>
 </div>
 
