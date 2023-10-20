@@ -48,6 +48,37 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <hr />
 
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  <div style="flex: 1;">
+    <h3>📊 This week I spent my time on: </h3>
+
+    <table>
+      <tr>
+        <td>SpringBoot</td>
+        <td>5 hrs 30 mins</td>
+        <td>█████████████████░░░░░░</td>
+        <td>60.71%</td>
+      </tr>
+      <tr>
+        <td>TypeScript</td>
+        <td>2 hrs 11 mins</td>
+        <td>██████░░░░░░░░░░░░░░░░</td>
+        <td>24.14%</td>
+      </tr>
+      <!-- Diğer satırlar burada gelebilir -->
+    </table>
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
+  </div>
+</div>
+
+<hr />
+
+
+<hr />
+
 <p align="center" >
  <a href="https://www.codewars.com/users/ehmedP">
    <img src="https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201" />
