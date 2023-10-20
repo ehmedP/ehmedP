@@ -31,16 +31,12 @@ I am excited to use my skills and experience to make a positive impact on the wo
   <div>
     <h3 align="left">📊 This week i spent my time on: </h3>
   
-    <!--START_SECTION:waka-->
-    ```txt
     SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
     TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
     JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
     Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
     JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
-    ```
-    
-    <!--END_SECTION:waka-->
+
   </div>
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
