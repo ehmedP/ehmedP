@@ -30,8 +30,8 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <div>
   <div style="display: flex;">
     <h3 align="left">📊 This week i spent my time on: </h3>
+    <br />
 
-    
     SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
     TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
     JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
