@@ -51,9 +51,9 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <br /><br /><hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&theme=tokyonight" alt="ehmedp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&theme=tokyonight" alt="ehmedp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&theme=tokyonight" alt="ehmedp" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&theme=tokyonight" alt="ehmedp" /></p>
 
 <br>
 <div align="center">
