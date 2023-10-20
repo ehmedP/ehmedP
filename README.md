@@ -27,23 +27,22 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <br /><hr />
 
-<div style="display: flex; flex-direction: column;">
-  <div align="left">
-    <h3 align="left">📊 This week i spent my time on: </h3>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h3 align="left">📊 This week I spent my time on: </h3>
 
-  ```
-
-    SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
-    TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
-    JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
-    Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
-    JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
-
-```
-    
+    <pre>
+      SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
+      TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
+      JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+      Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+      JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+    </pre>
   </div>
-  
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
+
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
+  </div>
 </div>
 
 <hr />
