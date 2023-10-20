@@ -52,7 +52,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
   <div style="flex: 1;">
     <h3>📊 This week I spent my time on: </h3>
 
-    <table>
+  <table>
       <tr>
         <td>SpringBoot</td>
         <td>5 hrs 30 mins</td>
@@ -65,7 +65,6 @@ I am excited to use my skills and experience to make a positive impact on the wo
         <td>██████░░░░░░░░░░░░░░░░</td>
         <td>24.14%</td>
       </tr>
-      <!-- Diğer satırlar burada gelebilir -->
     </table>
   </div>
 
