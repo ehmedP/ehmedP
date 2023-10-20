@@ -27,7 +27,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
 
 <br /><hr />
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: column;">
   <div>
     <h3 align="left">📊 This week i spent my time on: </h3>
 
