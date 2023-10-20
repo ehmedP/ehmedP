@@ -63,7 +63,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
         <td>1.65%</td>
       </tr>
     </table>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" />
   </div>
 </div>
 
