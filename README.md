@@ -30,7 +30,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <div>
   <div>
     <h3>📊 This week I spent my time on: </h3>
-    <table border="0px">
+    <table border="0">
       <tr>
         <td>
           <table>
