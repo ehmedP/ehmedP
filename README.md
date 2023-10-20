@@ -28,7 +28,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <br /><hr />
 
 <div style="display: flex; flex-direction: column;">
-  <div>
+  <div align="left">
     <h3 align="left">📊 This week i spent my time on: </h3>
 
   ```
@@ -43,7 +43,7 @@ I am excited to use my skills and experience to make a positive impact on the wo
     
   </div>
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ehmedp" /></p>
 </div>
 
 <hr />
