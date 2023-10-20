@@ -28,14 +28,17 @@ I am excited to use my skills and experience to make a positive impact on the wo
 <br /><hr />
 
 <div>
-  <div style="display: flex; padding: 10px">
+  <div style="display: flex;">
     <h3 align="left">📊 This week i spent my time on: </h3>
 
+  ```
     SpringBoot   5 hrs 30 mins   ███████████████████░░░░░░   60.71%
     TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░  24.14%
     JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
     Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  4.42%
     JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
+
+```
     
   </div>
   
