@@ -109,9 +109,15 @@ i am excited to use my skills and experience to make a positive impact on the wo
 
 ## Connect with me:
 <p align="left" >
-    <a href="https://www.linkedin.com/in/ehmed-ehmedli-2b6558271/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehmedP" height="30" width="40" />
-    </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/social-icons/Instagram-svg.png" alt="instagram" height="40" width="40" />
+  </a>&nbsp;
+  <a href="https://www.twitter.com" target="_blank">
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/social-icons/Twitter-svg.png" alt="twitter" height="40" width="40" />
+  </a>&nbsp;
+  <a href="https://www.discord.com" target="_blank">
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/social-icons/Discord-svg.png" alt="discord" height="40" width="40" />
+  </a>
 </p>
 
 &nbsp;&nbsp;
@@ -128,7 +134,6 @@ i am excited to use my skills and experience to make a positive impact on the wo
 
 ---
 [![ehmedP's Codewars Profile](https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201)](https://www.codewars.com/users/ehmedP)
----
 
 ## 📊 My Github Stats 🏆
 
