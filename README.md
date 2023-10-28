@@ -121,10 +121,10 @@ i am excited to use my skills and experience to make a positive impact on the wo
 | Language     | Time Spent   | Bar Chart                | Percentage   |
 |--------------|--------------|--------------------------|--------------|
 | SpringBoot   | 5 hrs 30 mins| █████████████████░░░░░░  | 60.71%       |
-| TypeScript   | 2 hrs 11 mins| ██████░░░░░░░░░░░░░░░    | 24.14%       |
-| JavaScript   | 1 hr 7 mins  | ███░░░░░░░░░░░░░░░░░░    | 11.78%       |
-| Java         | 40 mins      | █░░░░░░░░░░░░░░░░░░░     | 4.42%        |
-| JSON         | 15 mins      | ░░░░░░░░░░░░░░░░░░░░     | 1.65%        |
+| TypeScript   | 2 hrs 11 mins| ███████░░░░░░░░░░░░░░░░  | 24.14%       |
+| JavaScript   | 1 hr 7 mins  | ████░░░░░░░░░░░░░░░░░░░  | 11.78%       |
+| Java         | 40 mins      | ██░░░░░░░░░░░░░░░░░░░░░  | 4.42%        |
+| JSON         | 15 mins      | █░░░░░░░░░░░░░░░░░░░░░░  | 1.65%        |
 
 ---
 [![ehmedP's Codewars Profile](https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201)](https://www.codewars.com/users/ehmedP)
