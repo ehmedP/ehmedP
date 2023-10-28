@@ -8,7 +8,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 i am excited to use my skills and experience to make a positive impact on the world. I believe that technology can be used to solve real-world problems and improve people's lives. I am looking for opportunities to work on projects that align with my values and make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ehmedP/ehmedP/blob/main/icons/code.gif" width="480" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:ehmedliehmed0105@gmail.com) :)
 - 💬 Ask me about web, i am happy to help;
