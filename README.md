@@ -104,8 +104,10 @@ i am excited to use my skills and experience to make a positive impact on the wo
   <a href="https://codepen.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/e309385e-74e6-4ac9-aaa6-66ae0719037e" alt="vscode" width=40 height=40 />
   </a>&nbsp;
+  <a href="https://strapi.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/strapi.svg" alt="strapi" width=40 height=40 />
+  </a>&nbsp;
 </p>
-
 
 ## Connect with me:
 <p align="left" >
