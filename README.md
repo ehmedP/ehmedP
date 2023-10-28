@@ -135,8 +135,7 @@ i am excited to use my skills and experience to make a positive impact on the wo
 | Java         | 40 mins      | ██░░░░░░░░░░░░░░░░░░░░░  | 4.42%        |
 | JSON         | 15 mins      | █░░░░░░░░░░░░░░░░░░░░░░  | 1.65%        |
 
----
-[![ehmedP's Codewars Profile](https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201)](https://www.codewars.com/users/ehmedP)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ignacio-cuadra&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ## 📊 My Github Stats 🏆
 
