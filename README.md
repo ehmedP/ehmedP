@@ -109,8 +109,8 @@ i am excited to use my skills and experience to make a positive impact on the wo
 
 ## Connect with me:
 <p align="left" >
-  <a href="https://www.linkedIn.com" target="_blank">
-    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/linkedin.png" alt="linkein" height="40" width="40" />
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/linkedIn.png" alt="linkein" height="40" width="40" />
   </a>&nbsp;
   <a href="https://www.instagram.com" target="_blank">
     <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/instagram.png" alt="instagram" height="40" width="40" />
