@@ -40,7 +40,7 @@ i am excited to use my skills and experience to make a positive impact on the wo
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/24c8aaef-2271-47a3-bf8d-1652a69e2146" alt="typescript" width=40 height=40>
-  </a>
+  </a>&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/19ace4a6-3dba-47b5-b5b7-1ad99089e6e8" alt="react" width=40 height=40>
   </a>&nbsp;
@@ -64,7 +64,7 @@ i am excited to use my skills and experience to make a positive impact on the wo
   </a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/1bacdf85-940a-47d9-8eaf-cd4e684d77b7" alt="figma" width=40 height=40>
-  </a>
+  </a>&nbsp;
   <a href="https://www.photopea.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/b6983fcb-791c-4086-bea7-9c5c4eee6a1a" alt="photoshop" width=40 height=40>
   </a>&nbsp;
@@ -88,7 +88,7 @@ i am excited to use my skills and experience to make a positive impact on the wo
   </a>&nbsp;
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/2f2de0db-3003-49ff-a30a-5ae2a0fff98c" alt="wordpres" width=40 height=40>
-  </a>
+  </a>&nbsp;
   <a href="https://www.codewars.com/dashboard" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/436b533a-2c2d-4f9f-8b33-706cfe8f70c7" alt="codewars" width=40 height=40>
   </a>&nbsp;
