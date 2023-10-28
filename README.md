@@ -110,16 +110,16 @@ i am excited to use my skills and experience to make a positive impact on the wo
 ## Connect with me:
 <p align="left" >
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/linkedIn.png" alt="linkein" height="40" width="40" />
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/LinkedIn.png" alt="linkein" height="40" width="40" />
   </a>&nbsp;
   <a href="https://www.instagram.com" target="_blank">
-    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/instagram.png" alt="instagram" height="40" width="40" />
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/Instagram.png" alt="instagram" height="40" width="40" />
   </a>&nbsp;
   <a href="https://www.twitter.com" target="_blank">
-    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/twitter.png" alt="twitter" height="40" width="40" />
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/Twitter.png" alt="twitter" height="40" width="40" />
   </a>&nbsp;
   <a href="https://www.discord.com" target="_blank">
-    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/discord.png" alt="discord" height="40" width="40" />
+    <img src="https://github.com/ehmedP/ehmedP/blob/main/icons/Discord.png" alt="discord" height="40" width="40" />
   </a>
 </p>
 
