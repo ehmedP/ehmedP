@@ -45,11 +45,35 @@ i am excited to use my skills and experience to make a positive impact on the wo
 [![ehmedP's Codewars Profile](https://github.com/ehmedP/ehmedP/assets/129995403/6637bb2c-ea81-4776-ac9a-009c9ca23201)](https://www.codewars.com/users/ehmedP)
 ---
 
-![ehmedp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehmedp&show_icons=true&locale=en&theme=tokyonight)
+## 📊 My Github Stats 🏆
 
-![ehmedp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ehmedp&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+<div align='center'>
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehmedP&layout=compact&langs_count=7&theme=radical" />
+  <a href="#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=ehmedP&theme=radical&row=1&column=6" alt="trophy" />
+  </a>
+  <br/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">
+    <img height="150em" alt="ehmedP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ehmedP?cardType=level&theme=radical&preferLogin=false" />
+  </a>
 
-![ehmedp's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehmedp&theme=tokyonight)
+  <a href="https://git.io/streak-stats">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=ehmedP&theme=radical" alt="GitHub Streak">
+  </a>
+</div>
+<br>
+<details>
+   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+   </br>
+    <div align='center'>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehmedP&theme=radical" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehmedP&theme=radical" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehmedP&theme=radical" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehmedP&theme=radical" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehmedP&theme=radical&utcOffset=8" alt="Productive Time">
+    </div>
+   </br>
+</details>
 
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
