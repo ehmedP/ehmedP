@@ -53,9 +53,6 @@ i am excited to use my skills and experience to make a positive impact on the wo
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/3ab4c5b8-75c8-402b-93cd-22c8e8d85c3a" alt="springboot" width=40 height=40 />
   </a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ehmedP/ehmedP/assets/129995403/3a1d6aad-d223-4dcc-9eab-46baccc78fdc" alt="expressjs" width=40 height=40 />
-  </a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ehmedP/ehmedP/assets/129995403/2884f944-2353-43b0-b1d7-bddd41193c0b" alt="cpp" width=40 height=40 />
   </a>&nbsp;
