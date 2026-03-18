@@ -23,7 +23,7 @@ My environment is Arch Linux, my weapon of choice is Laravel, and I don't commit
 
 ```bash
 $ whoami
-> Backend Developer · 2+ yrs production experience
+> Backend Developer · 4+ yrs production experience
 
 $ cat current_focus.txt
 > National-scale platforms · thousands of daily active users
