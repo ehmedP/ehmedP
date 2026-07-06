@@ -101,11 +101,13 @@ Design principles: `SOLID` `DRY` `KISS` `YAGNI` `MVC` `Repository Pattern` `Serv
 
 Server stuff I handle myself: `Nginx/Apache config` `Supervisor` `Cron jobs` `Deployment pipelines` `SSL` `Hosting setup`
 
----
+<br>
 
-## GitHub Stats
+[//]: # (---)
 
-<div align="center">
+[//]: # (## GitHub Stats)
+
+[//]: # (<div align="center">)
 
 [//]: # (<picture>)
 
@@ -115,14 +117,18 @@ Server stuff I handle myself: `Nginx/Apache config` `Supervisor` `Cron jobs` `De
 
 [//]: # (</picture>)
 
-<br>
+[//]: # (<br>)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ehmedP&theme=github-dark-blue&hide_border=true&background=0d1117">
-  <img src="https://streak-stats.demolab.com?user=ehmedP&hide_border=true" alt="GitHub Streak">
-</picture>
+[//]: # ()
+[//]: # (<picture>)
 
-</div>
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://streak-stats.demolab.com?user=ehmedP&theme=github-dark-blue&hide_border=true&background=0d1117">)
+
+[//]: # (  <img src="https://streak-stats.demolab.com?user=ehmedP&hide_border=true" alt="GitHub Streak">)
+
+[//]: # (</picture>)
+
+[//]: # (</div>)
 
 ---
 
